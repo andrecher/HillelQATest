@@ -1,0 +1,20 @@
+body {
+  background-color: gainsboro;
+}
+
+p {
+    width: 50%;
+    background-color: powderblue;
+    padding: 70px 50px 25px 10px;
+    border: 1px solid #4CAF50;
+  }
+a {
+  padding: 70px 50px 25px 10px;
+  border: 1px solid #4CAF50;
+}
+.sidebar, .sidebar2 {
+  background-color: greenyellow;
+}
+#thisisid{
+  background-color: magenta;
+}
